@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayden
 - 👀 I’m interested in casino game developmment
 - 🌱 I’m currently learning basic Java and JavaScript
-- 💞️ I’m looking to collaborate on the backend for a social games platform PoC
+- 💞️ I’m looking to collaborate on a PoC backend API
 - 📫 How to reach me jayden.greenham1@gmail.com
 - ⚡ Fun fact: ...
 
